@@ -61,7 +61,7 @@ This overview
 
     1. Defines a population, including:
         * Age distribution,
-        * Age-depednent clinical statistics,
+        * Age-dependent clinical statistics,
         * Transmission rate.
 
     2. Generates a time-averaged contact network.
